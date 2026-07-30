@@ -1,1 +1,1 @@
-# cv-analzyer
+# cv-analyzer
